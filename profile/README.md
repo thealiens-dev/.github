@@ -1,6 +1,6 @@
 # Alien Tools
 
-Alien Tools is a collection of tools and experiments developed within the The Aliens project.
+Alien Tools is a collection of tools and experiments developed within The Aliens project.
 
 The focus is on simple and transparent mechanisms that are easy to verify and reason about.
 
